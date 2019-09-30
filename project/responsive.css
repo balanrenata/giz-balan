@@ -1,0 +1,15 @@
+@media (max-width: 1024px){
+    .main-menu-item {
+        visibility: hidden;
+    }
+    .mobile {
+        position: fixed;
+        top 40px;
+        right: 5%;
+        visibility: visible;
+    }
+    .main-menu-item{
+        visibility: hidden;
+    }
+}
+
