@@ -6,7 +6,7 @@
 * Place of work of ISU named after K. Tynystanov
 * Department of Information Technology
 *
-### Skills
+### Навыки
 * C++
 * Pyton
 * HTML
